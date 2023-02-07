@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MakeUp Studio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome to MakeUp Studio</string>
+    <string name="welcome_text">"Welcome to MakeUp Studio! We are thrilled to have you join our community of beauty enthusiasts. Our app is designed to help you enhance your natural beauty and unleash your creativity. Happy experimenting!"</string>
+</resources>
