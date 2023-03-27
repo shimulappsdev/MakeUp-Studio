@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>Sign Up & Sign In</b>
+  <b>Home Page</b>
   <br><br>
   <img src="https://user-images.githubusercontent.com/118614364/227849024-77dc3538-8b98-42ab-91f0-34f2e33e398f.png" width="250" height = "500" >
   <img src="https://user-images.githubusercontent.com/118614364/227849028-af036a3b-0ddd-42a0-9b46-de9fb78d2623.png" width="250" height = "500">
