@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <b>MakeUp Items of Each Category and Descroption</b>
+  <b>MakeUp Items of Each Category and Product Descroption</b>
   <br><br>
   <img src="https://user-images.githubusercontent.com/118614364/227849071-f0cbfbe1-20d0-41df-8785-ddec61fccf61.png" width="250" height = "500" >
   <img src="https://user-images.githubusercontent.com/118614364/227849081-a308dead-f8e8-4169-95eb-d92888de650b.png" width="250" height = "500">
