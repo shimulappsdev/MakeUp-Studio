@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <b>Sign Up & Sign In</b>
+  <b>Popular MakeUp Description</b>
   <br><br>
   <img src="https://user-images.githubusercontent.com/118614364/227849056-d7840fbc-1b9e-4f76-8eb5-7186697a7cb8.png" width="250" height = "500" >
   <img src="https://user-images.githubusercontent.com/118614364/227849064-35face38-017f-4d3c-8490-d3076a64a4fe.png" width="250" height = "500">
