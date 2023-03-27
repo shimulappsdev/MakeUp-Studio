@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <b>Sign Up & Sign In</b>
+  <b>Popular MakeUp Description</b>
   <br><br>
   <img src="https://user-images.githubusercontent.com/118614364/227849039-e080ad37-eff2-45c0-87c2-ac2a086a9071.png" width="250" height = "500" >
   <img src="https://user-images.githubusercontent.com/118614364/227849047-54e39c88-ac13-47e4-8354-1df1094eb07c.png" width="250" height = "500">
